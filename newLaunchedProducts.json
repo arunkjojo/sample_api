@@ -7,7 +7,7 @@
             "mrp": "₹5,798",
             "price": "₹3,899",
             "currency": "INR",
-            "image": "/img/products/prd1.png",
+            "image": "https://arunkjojo.github.io/react-ecommerce-app/src/img/products/prd1.png",
             "badge": true,
             "badgeText": "10% OFF"
         },
@@ -18,7 +18,7 @@
             "mrp": "₹5,798",
             "price": "₹3,899",
             "currency": "INR",
-            "image": "/img/products/prd2.png",
+            "image": "https://arunkjojo.github.io/react-ecommerce-app/src/img/products/prd2.png",
             "badge": true,
             "badgeText": "10% OFF"
         },
@@ -29,7 +29,7 @@
             "mrp": "₹5,798",
             "price": "₹3,899",
             "currency": "INR",
-            "image": "/img/products/prd3.png",
+            "image": "https://arunkjojo.github.io/react-ecommerce-app/src/img/products/prd3.png",
             "badge": true,
             "badgeText": "10% OFF"
         },
@@ -40,7 +40,7 @@
             "mrp": "₹5,798",
             "price": "₹3,899",
             "currency": "INR",
-            "image": "/img/products/prd4.png",
+            "image": "https://arunkjojo.github.io/react-ecommerce-app/src/img/products/prd4.png",
             "badge": true,
             "badgeText": "10% OFF"
         }
